@@ -1,3 +1,3 @@
 # CometFreebuild
 
-[slooshied.gitlab.io/CometFreebuild](http://slooshied.gitlab.io/CometFreebuild)
+[slooshied.github.io/CometFreebuild](http://slooshied.github.io/CometFreebuild)
